@@ -15,5 +15,4 @@ class ProductsServiceTest {
     fun testItWorks() {
         Assertions.assertTrue(application.isRunning)
     }
-
 }
